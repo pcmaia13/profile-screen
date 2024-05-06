@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: rgb(118, 147, 228);
+  height: 120vh;
+  width: 100%;
+}
+
+.img-edit {
+  margin-left: 3%;
+}
+
+.h2-edit {
+  margin-left: 3%;
+
+}

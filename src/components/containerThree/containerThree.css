@@ -1,0 +1,20 @@
+.container-3 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.button {
+    height: 5vh;
+    width: 8%;
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 3.5%;
+    margin-top: 1.5%;
+}
+
+.input-edit {
+    margin-left: 2%;
+}
